@@ -1,0 +1,49 @@
+footer {
+    text-align: center;
+}
+h1 {
+    border-bottom: solid 1px #f00206;
+    border-left: solid 16px #f00206;
+
+    font-size: 18px;
+    padding: 4px 8px;
+}
+h2 {
+    font-size: 16px;
+    margin: 8px;
+}
+h3 {
+    font-size: 16px;
+    margin: 8px;
+}
+p {
+    margin: 8px 8px 24px 16px;
+}
+li.menu {
+    font-size: 20px;
+    display: block;
+    margin-bottom: 20px;
+}
+li span.date {
+    color: #666;
+}
+li span.date:after {
+    content: ":";
+}
+dl {
+	margin: 0 12px 20px 12px;
+}
+dt {
+    font-weight: bold;
+    margin-bottom: 12px;
+}
+dd {
+    margin: 0 0 24px 8px;
+}
+dd ul {
+    list-style-type: disc;
+    margin: 8px 0;
+}
+dd li {
+    margin-left: 20px; 
+}
